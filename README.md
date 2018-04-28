@@ -2,8 +2,7 @@
 
 Free website template built for developers to use a website framework to build upon. Website features a homepage hero image and a sticky dropdown navigation bar.
 
-To view a live demo of this website, go to: http://www.waldronmatthew.com/websites/basic/index.html
-
+To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/basic/index.html
 
 ## Built With
 
@@ -13,7 +12,7 @@ To view a live demo of this website, go to: http://www.waldronmatthew.com/websit
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with Matthew Waldron before making a change.
+When contributing to this repository, you may fork and submit a pull request. Add a description of what you are doing and I'll review it.
 
 ## Versioning
 
