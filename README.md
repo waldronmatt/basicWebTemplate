@@ -4,8 +4,6 @@ Free website template built for developers to use a website framework to build u
 
 Website features a homepage hero image and a sticky dropdown navigation bar.
 
-To view a live demo of this website, go to: http://waldronmatthew.com/portfolio/basic/index.html
-
 ## Built With
 
 * HTML5
