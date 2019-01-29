@@ -8,7 +8,7 @@ Website features a homepage hero image and a sticky dropdown navigation bar.
 
 * HTML5
 * CSS3
-* JQuery / Javascript
+* jQuery/JavaScript
 
 ## Contributing
 
